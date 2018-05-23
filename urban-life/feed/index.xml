@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Urban life</title>
+	<atom:link href="http://localhost/wp_asmithdigital/urban-life/feed/" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 22 May 2018 03:45:33 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>By: James Shepherd</title>
+		<link>./../index.html#comment-10</link>
+		<dc:creator><![CDATA[James Shepherd]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2015 05:53:23 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost/wordpress/tilt/demo/?p=4269#comment-10</guid>
+		<description><![CDATA[Meis labitur fastidii nam id. Est te case diceret. Id reque dicit persecuti vis, ut omnis nullam vel.]]></description>
+		<content:encoded><![CDATA[<p>Meis labitur fastidii nam id. Est te case diceret. Id reque dicit persecuti vis, ut omnis nullam vel.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: TheWhiteCollars</title>
+		<link>./../index.html#comment-9</link>
+		<dc:creator><![CDATA[TheWhiteCollars]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2015 05:51:21 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost/wordpress/tilt/demo/?p=4269#comment-9</guid>
+		<description><![CDATA[Viderer forensibus eos cu, cu his dico falli, mea libris inciderint no. Ea dicit tollit instructior vix. Nullam alterum cum id. Vis porro ceteros albucius no, ut sed stet epicuri inciderint. Ne per qualisque iudicabit, est natum integre theophrastus eu.]]></description>
+		<content:encoded><![CDATA[<p>Viderer forensibus eos cu, cu his dico falli, mea libris inciderint no. Ea dicit tollit instructior vix. Nullam alterum cum id. Vis porro ceteros albucius no, ut sed stet epicuri inciderint. Ne per qualisque iudicabit, est natum integre theophrastus eu.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: James Shepherd</title>
+		<link>./../index.html#comment-8</link>
+		<dc:creator><![CDATA[James Shepherd]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2015 05:46:36 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost/wordpress/tilt/demo/?p=4269#comment-8</guid>
+		<description><![CDATA[Quodsi adipisci partiendo has id. Eos et imperdiet similique pertinacia, cu malis tacimates honestatis duo, his in nullam conceptam. Delicata euripidis ea nec, vim modus eligendi cu. Ea duo solet consulatu. Denique dolores sit at.]]></description>
+		<content:encoded><![CDATA[<p>Quodsi adipisci partiendo has id. Eos et imperdiet similique pertinacia, cu malis tacimates honestatis duo, his in nullam conceptam. Delicata euripidis ea nec, vim modus eligendi cu. Ea duo solet consulatu. Denique dolores sit at.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

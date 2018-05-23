@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Design starts here</title>
+	<atom:link href="http://localhost/wp_asmithdigital/design-starts-here/feed/" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 22 May 2018 03:45:33 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>By: TheWhiteCollars</title>
+		<link>./../index.html#comment-15</link>
+		<dc:creator><![CDATA[TheWhiteCollars]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2015 06:25:05 +0000</pubDate>
+		<guid isPermaLink="false">http://whitecollars.co/tilt/?p=56#comment-15</guid>
+		<description><![CDATA[Pro minim principes at, deserunt efficiantur an his. Ei quo atomorum repudiare adolescens, qui ut mollis laboramus expetendis. Ut fastidii probatus molestiae pri, ea pri illum inimicus. No quo volutpat splendide rationibus, cum ne propriae abhorreant, illud dolorum concludaturque usu an.]]></description>
+		<content:encoded><![CDATA[<p>Pro minim principes at, deserunt efficiantur an his. Ei quo atomorum repudiare adolescens, qui ut mollis laboramus expetendis. Ut fastidii probatus molestiae pri, ea pri illum inimicus. No quo volutpat splendide rationibus, cum ne propriae abhorreant, illud dolorum concludaturque usu an.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Trip to a wonderland</title>
+	<atom:link href="http://localhost/wp_asmithdigital/trip-to-a-wonderland/feed/" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 22 May 2018 03:45:33 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>By: TheWhiteCollars</title>
+		<link>./../index.html#comment-13</link>
+		<dc:creator><![CDATA[TheWhiteCollars]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2015 06:24:30 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost/wordpress/tilt/demo/?p=4276#comment-13</guid>
+		<description><![CDATA[Vero harum fabellas pro ne. An commodo signiferumque ius, mel te labore eirmod, utroque consectetuer at usu.]]></description>
+		<content:encoded><![CDATA[<p>Vero harum fabellas pro ne. An commodo signiferumque ius, mel te labore eirmod, utroque consectetuer at usu.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: James Shepherd</title>
+		<link>./../index.html#comment-12</link>
+		<dc:creator><![CDATA[James Shepherd]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2015 06:23:47 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost/wordpress/tilt/demo/?p=4276#comment-12</guid>
+		<description><![CDATA[Nec at putent minimum sententiae. Ne mentitum partiendo salutatus ius, his eruditi disputationi delicatissimi id. Vis no dicta vivendo. In sed scripta fabellas torquatos, eos nemore vivendum maiestatis at.]]></description>
+		<content:encoded><![CDATA[<p>Nec at putent minimum sententiae. Ne mentitum partiendo salutatus ius, his eruditi disputationi delicatissimi id. Vis no dicta vivendo. In sed scripta fabellas torquatos, eos nemore vivendum maiestatis at.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: TheWhiteCollars</title>
+		<link>./../index.html#comment-11</link>
+		<dc:creator><![CDATA[TheWhiteCollars]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2015 06:23:28 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost/wordpress/tilt/demo/?p=4276#comment-11</guid>
+		<description><![CDATA[Omnis reprehendunt has ut, ea sea augue perpetua. Ex semper similique nec, nonumes inimicus quo ad. Modus altera argumentum nec in, ea sensibus convenire eos. In fastidii ponderum insolens ius, eos meis eleifend instructior an.]]></description>
+		<content:encoded><![CDATA[<p>Omnis reprehendunt has ut, ea sea augue perpetua. Ex semper similique nec, nonumes inimicus quo ad. Modus altera argumentum nec in, ea sensibus convenire eos. In fastidii ponderum insolens ius, eos meis eleifend instructior an.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

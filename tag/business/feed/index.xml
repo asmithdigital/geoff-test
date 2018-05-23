@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Business &#8211; asmithdigital</title>
+	<atom:link href="http://localhost/wp_asmithdigital/tag/business/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 22 May 2018 04:07:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>WordPress Themes</title>
+		<link>./../../../fantastic-wordpress-themes/index.html</link>
+		<comments>./../../../fantastic-wordpress-themes/index.html#respond</comments>
+		<pubDate>Thu, 05 Mar 2015 16:19:57 +0000</pubDate>
+		<dc:creator><![CDATA[andrew]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Design]]></category>
+
+		<guid isPermaLink="false">http://whitecollars.co/tilt/?p=84</guid>
+		<description><![CDATA[http://themeforest.net/user/TheWhiteCollars]]></description>
+				<content:encoded><![CDATA[<p>http://themeforest.net/user/TheWhiteCollars</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../fantastic-wordpress-themes/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Working at home</title>
+		<link>./../../../working-at-home/index.html</link>
+		<comments>./../../../working-at-home/index.html#respond</comments>
+		<pubDate>Sun, 01 Mar 2015 05:50:07 +0000</pubDate>
+		<dc:creator><![CDATA[andrew]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Photos]]></category>
+		<category><![CDATA[Relax]]></category>
+		<category><![CDATA[Tips]]></category>
+
+		<guid isPermaLink="false">http://whitecollars.co/tilt/?p=72</guid>
+		<description><![CDATA[Has cu quot saepe vocent. Odio regione quo eu, ea vim noluisse elaboraret. Mel ei maiorum propriae corrumpit, et elaboraret vituperatoribus per, aeterno discere vel eu. Esse accusata cum cu, an mea tale convenire. In vis nibh viderer consectetuer, est in lorem causae oportere. Nec ad aliquam ponderum. Quo omnes iuvaret eu. Et sed aliquando argumentum, eos prompta inciderint eu, sea te sonet homero debitis. Mea congue fabulas recusabo ex. Ridens scripta ei mea. Te...  <div class="read-more"><a class="excerpt-read-more" href="./../../../working-at-home/index.html" title="Continue reading Working at home">Read more<i class="fa fa-angle-right"></i></a></div>]]></description>
+				<content:encoded><![CDATA[<p>Has cu quot saepe vocent. Odio regione quo eu, ea vim noluisse elaboraret. Mel ei maiorum propriae corrumpit, et elaboraret vituperatoribus per, aeterno discere vel eu. Esse accusata cum cu, an mea tale convenire. In vis nibh viderer consectetuer, est in lorem causae oportere.</p>
+<p>Nec ad aliquam ponderum. Quo omnes iuvaret eu. Et sed aliquando argumentum, eos prompta inciderint eu, sea te sonet homero debitis. Mea congue fabulas recusabo ex. Ridens scripta ei mea. Te duo error vitae integre, no dicta blandit persequeris sea.</p>
+<p>Errem intellegam accommodare te vel, quo ut legimus interpretaris. Docendi assentior nam ex, nibh maiestatis ut vim. Enim soleat eum at. Purto posse te pri. Ne sea nostro urbanitas deseruisse, et copiosae mnesarchum quaerendum sea.</p>
+<p>Facilisis voluptatum per at. Cum eu liber veritus scripserit, nam an sonet everti dignissim. Hinc theophrastus interpretaris ex mei. Et dicunt persius pri, vim no dolor audire, sed te dicunt persius torquatos. Mei primis deterruisset ne, semper reformidans ex qui.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../working-at-home/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>andrew &#8211; asmithdigital</title>
+	<atom:link href="http://localhost/wp_asmithdigital/author/andrew/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 22 May 2018 04:07:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Hello world!</title>
+		<link>./../../../hello-world/index.html</link>
+		<comments>./../../../hello-world/index.html#comments</comments>
+		<pubDate>Tue, 22 May 2018 03:45:33 +0000</pubDate>
+		<dc:creator><![CDATA[andrew]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://localhost:81/wordpress%202/?p=1</guid>
+		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing! yolo]]></description>
+				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing! yolo</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../hello-world/feed/index.html</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Urban life</title>
+		<link>./../../../urban-life/index.html</link>
+		<comments>./../../../urban-life/index.html#comments</comments>
+		<pubDate>Mon, 09 Mar 2015 06:01:58 +0000</pubDate>
+		<dc:creator><![CDATA[andrew]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Photos]]></category>
+		<category><![CDATA[Social Media]]></category>
+
+		<guid isPermaLink="false">http://localhost/wordpress/tilt/demo/?p=4269</guid>
+		<description><![CDATA[Vis oratio nonumes id, ad quo erant tacimates evertitur. Ex enim probatus maiestatis sed, eum ne omnes deterruisset. No vis unum novum tantas, ad usu sint eius veritus. Usu debet feugiat te. Cum ne porro propriae constituam. Sed at modus tamquam civibus. Ut facer veniam efficiantur mei, aliquip detraxit cu est. At affert primis tritani ius, eum duis quas ocurreret in. Eros adhuc efficiantur eum cu. Cu vel tractatos patrioque suscipiantur, vix ferri oporteat expetendis...  <div class="read-more"><a class="excerpt-read-more" href="./../../../urban-life/index.html" title="Continue reading Urban life">Read more<i class="fa fa-angle-right"></i></a></div>]]></description>
+				<content:encoded><![CDATA[<p>Vis oratio nonumes id, ad quo erant tacimates evertitur. Ex enim probatus maiestatis sed, eum ne omnes deterruisset. No vis unum novum tantas, ad usu sint eius veritus. Usu debet feugiat te. Cum ne porro propriae constituam. Sed at modus tamquam civibus.</p>
+<p>Ut facer veniam efficiantur mei, aliquip detraxit cu est. At affert primis tritani ius, eum duis quas ocurreret in. Eros adhuc efficiantur eum cu. Cu vel tractatos patrioque suscipiantur, vix ferri oporteat expetendis eu. His assum graeci facilis ut, equidem tractatos per ex, choro quaeque sanctus in has. Ei sea volutpat constituam, cu aliquam suavitate nec. Sea id causae audiam virtute, maluisset quaerendum ut per, sed ne mundi omnium.</p>
+<p>Sint invenire eu est, libris ponderum sit eu. Sea adolescens comprehensam eu, vix te dolore aliquid. Quod clita id eam, iudicabit pertinacia mei ut. Partem mediocritatem conclusionemque ex has, tation tibique id sea. Te duo solum apeirian. Ea animal maiestatis constituam vim, maiestatis eloquentiam ne eum.</p>
+<blockquote><p>Per in quis menandri accusata. Eu qui doctus aliquid pericula, duo quaestio pericula an, at delicata conceptam usu. Solet erroribus eos id. Aeterno facilis percipitur duo ea, nec id dolor inciderint. In eam epicuri evertitur, vel cu quis dicta numquam, eum ut suscipit placerat.</p></blockquote>
+<p>Cu legimus abhorreant honestatis nec, no has alii consetetur. Has numquam maluisset interesset ex, enim nonumes scripserit mei no, mutat omnes in eum. Nec lorem clita alienum id. Ex cum ubique equidem iracundia. His affert legere aliquip in, pro ne eius pertinax consulatu.</p>
+<p>Ei nostro torquatos rationibus sit, usu id minimum voluptua elaboraret. Et mei paulo dissentiet, cu sea euismod appellantur. Periculis dissentiet vim ea, mundi integre eum et. Id pri vide mediocrem.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../urban-life/feed/index.html</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>On the way home</title>
+		<link>./../../../on-the-way-home/index.html</link>
+		<comments>./../../../on-the-way-home/index.html#comments</comments>
+		<pubDate>Mon, 09 Mar 2015 05:56:42 +0000</pubDate>
+		<dc:creator><![CDATA[andrew]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Fashion]]></category>
+		<category><![CDATA[Social Media]]></category>
+
+		<guid isPermaLink="false">http://localhost/wordpress/tilt/demo/?p=4266</guid>
+		<description><![CDATA[Tacimates lobortis mei in, usu velit facilisi periculis ea, agam putant saperet mea cu. Ei has quando verterem complectitur. Eum clita periculis vituperatoribus ea, cu qui delicata definiebas consectetuer. Pri id prima maiorum, duo an ornatus interesset dissentiunt, in adhuc ridens sed. At eam offendit persequeris consequuntur, vis te sanctus minimum. Sensibus oportere signiferumque id mea. At usu lucilius phaedrum, vix oratio epicurei ne. Eripuit conceptam sea cu, ius minim delectus euripidis cu. Probo nonumy...  <div class="read-more"><a class="excerpt-read-more" href="./../../../on-the-way-home/index.html" title="Continue reading On the way home">Read more<i class="fa fa-angle-right"></i></a></div>]]></description>
+				<content:encoded><![CDATA[<p>Tacimates lobortis mei in, usu velit facilisi periculis ea, agam putant saperet mea cu. Ei has quando verterem complectitur. Eum clita periculis vituperatoribus ea, cu qui delicata definiebas consectetuer. Pri id prima maiorum, duo an ornatus interesset dissentiunt, in adhuc ridens sed. At eam offendit persequeris consequuntur, vis te sanctus minimum.</p>
+<blockquote><p>Sensibus oportere signiferumque id mea. At usu lucilius phaedrum, vix oratio epicurei ne. Eripuit conceptam sea cu, ius minim delectus euripidis cu. Probo nonumy gubergren id nec. In est probo ridens, his laoreet euripidis et.</p></blockquote>
+<p>Sea vitae tantas cu, eum eu vide oratio salutatus. Est ad omnis omnes melius, in solet atomorum qui. Meis zril at mei, vel omnis abhorreant ne, eum in aliquando expetendis quaerendum. Est ad voluptaria reprehendunt. Partem ridens delicata qui ut, choro apeirian euripidis his at. Vidisse alterum et nec. At mazim laoreet fuisset qui, ei vix atqui omnes accommodare.</p>
+<p>Dicunt quaeque fuisset eam ex, utamur veritus singulis id duo, pro vide appareat efficiantur ex. Case graecis contentiones cu mel. Tritani ocurreret pertinacia pro an. Nibh civibus praesent vix id, odio dolore ad vix, hinc eleifend senserit ea eos. Postea legendos no duo, prima mutat dicant id vis.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../on-the-way-home/feed/index.html</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>New workplace</title>
+		<link>./../../../new-workplace/index.html</link>
+		<comments>./../../../new-workplace/index.html#comments</comments>
+		<pubDate>Sun, 08 Mar 2015 19:27:43 +0000</pubDate>
+		<dc:creator><![CDATA[andrew]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Events]]></category>
+
+		<guid isPermaLink="false">http://localhost/wordpress/tilt/demo/?p=4263</guid>
+		<description><![CDATA[Scripta diceret vulputate ad est. Amet dolorum qualisque vim an. Te per quem odio, pri ut vero doctus consectetuer, est ad brute inani electram. Ea causae latine accusam cum, sed tota summo oratio cu, vide labore vidisse eos te. Eum discere veritus neglegentur ea, solum invidunt urbanitas nec eu. Ei omittam consetetur mel. Pro justo nonumes petentium cu. Oblique ceteros inimicus eu vis, no nam sint senserit, nemore honestatis vis ut. Erat nostrum eloquentiam has...  <div class="read-more"><a class="excerpt-read-more" href="./../../../new-workplace/index.html" title="Continue reading New workplace">Read more<i class="fa fa-angle-right"></i></a></div>]]></description>
+				<content:encoded><![CDATA[<p>Scripta diceret vulputate ad est. Amet dolorum qualisque vim an. Te per quem odio, pri ut vero doctus consectetuer, est ad brute inani electram. Ea causae latine accusam cum, sed tota summo oratio cu, vide labore vidisse eos te. Eum discere veritus neglegentur ea, solum invidunt urbanitas nec eu. Ei omittam consetetur mel.</p>
+<p>Pro justo nonumes petentium cu. Oblique ceteros inimicus eu vis, no nam sint senserit, nemore honestatis vis ut. Erat nostrum eloquentiam has ei, eu nam postulant consequuntur concludaturque, delicata salutandi evertitur cu vis. An nec sale suscipit torquatos, sit an tation virtute graecis. Eum tacimates nominati inimicus ad, ex justo adipiscing ius.</p>
+<blockquote><p>At commodo sanctus reprehendunt ius, nobis aperiam eu vix, has aperiam accumsan ei. Usu ne animal euripidis, semper aliquam sed ex, in pri dicant oporteat. Vix ut modo illud. Ius te simul voluptaria, quas suavitate dissentiet vel ea. Ea dicant antiopam suscipiantur mea.</p></blockquote>
+<p>Qui malorum efficiantur id, no vide verear appetere per. Mea viderer virtute salutatus ne. At sit ubique libris assentior. Mea officiis verterem eleifend in, ne mel repudiare adipiscing.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../new-workplace/feed/index.html</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Healthy breakfast</title>
+		<link>./../../../healthy-breakfast/index.html</link>
+		<comments>./../../../healthy-breakfast/index.html#respond</comments>
+		<pubDate>Sun, 08 Mar 2015 19:20:41 +0000</pubDate>
+		<dc:creator><![CDATA[andrew]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Fashion]]></category>
+
+		<guid isPermaLink="false">http://localhost/wordpress/tilt/demo/?p=4260</guid>
+		<description><![CDATA[Sit aeterno delicata id. Veri consequuntur te vis, te option legimus vituperatoribus eos. Id mundi propriae scaevola duo, et dicant habemus mei. Ei ludus quidam sadipscing cum. Cum melius senserit percipitur at, te qui quem simul oratio. Ad quo utinam ocurreret deterruisset, ad duo vidit possim, etiam clita mediocrem ei mea. Dicit nullam indoctum mea ea, amet probo errem pro te. Eu evertitur efficiantur mel, quo et dicit diceret reformidans, id eruditi maiorum vim. Ut...  <div class="read-more"><a class="excerpt-read-more" href="./../../../healthy-breakfast/index.html" title="Continue reading Healthy breakfast">Read more<i class="fa fa-angle-right"></i></a></div>]]></description>
+				<content:encoded><![CDATA[<p>Sit aeterno delicata id. Veri consequuntur te vis, te option legimus vituperatoribus eos. Id mundi propriae scaevola duo, et dicant habemus mei. Ei ludus quidam sadipscing cum. Cum melius senserit percipitur at, te qui quem simul oratio. Ad quo utinam ocurreret deterruisset, ad duo vidit possim, etiam clita mediocrem ei mea.</p>
+<blockquote><p>Dicit nullam indoctum mea ea, amet probo errem pro te. Eu evertitur efficiantur mel, quo et dicit diceret reformidans, id eruditi maiorum vim. Ut iusto graeco nam, ne ius tacimates splendide interesset, quod honestatis te has. Vix et etiam habemus signiferumque. In per minim epicurei mandamus.</p>
+<p>Pri minimum scriptorem at, mei hinc simul scaevola ei, ea recteque deseruisse cotidieque nec. Ea dico fabulas philosophia mel. Ex qui insolens voluptatum. Ad eius definitiones sed, at pri ferri omnis. Hinc autem ocurreret an vis, sit atqui commune sapientem in.</p></blockquote>
+<p>Ubique complectitur vis in, inani ubique maluisset pro te. Nam quod porro no, malis atomorum ea nam. Habeo antiopam voluptatum ei cum, nam legere nonumes deserunt ea. Quaeque deseruisse usu ea. No magna euripidis dissentiet pro.</p>
+<p>Vim dicant discere numquam in, at stet exerci mel, cu mel tamquam singulis. Enim nullam aliquam ne sed, mei ea debet intellegebat. Ne singulis urbanitas qui, no vix corpora patrioque, per et tota percipit. Quodsi maiestatis ei vel, affert feugait tincidunt sea no, alii sensibus pri id. Ut eius summo erant vis, sea eu stet oblique singulis, et vim malis discere. Ea rebum bonorum qui, no ridens regione pro.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../healthy-breakfast/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pub night</title>
+		<link>./../../../pub-night/index.html</link>
+		<comments>./../../../pub-night/index.html#comments</comments>
+		<pubDate>Sat, 07 Mar 2015 19:02:31 +0000</pubDate>
+		<dc:creator><![CDATA[andrew]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Photos]]></category>
+		<category><![CDATA[Party]]></category>
+
+		<guid isPermaLink="false">http://whitecollars.co/tilt/?p=96</guid>
+		<description><![CDATA[Pri euismod invidunt in. Eam ei elitr aliquip, ea pri affert mediocritatem. Nonumy placerat id mei, no mea putent verear timeam, esse sanctus cu est. Iriure sanctus evertitur ea has. Eam alii paulo facete an. An putent repudiare vel, nam diceret patrioque ei, cu quas nostrud ancillae usu. Soluta noster vix ne, iisque consulatu dignissim his cu. Ius simul detraxit ea. Ad reque nostro per. Quidam menandri deserunt sea ei. Ad affert accommodare vim. Nec...  <div class="read-more"><a class="excerpt-read-more" href="./../../../pub-night/index.html" title="Continue reading Pub night">Read more<i class="fa fa-angle-right"></i></a></div>]]></description>
+				<content:encoded><![CDATA[<p>Pri euismod invidunt in. Eam ei elitr aliquip, ea pri affert mediocritatem. Nonumy placerat id mei, no mea putent verear timeam, esse sanctus cu est. Iriure sanctus evertitur ea has. Eam alii paulo facete an. An putent repudiare vel, nam diceret patrioque ei, cu quas nostrud ancillae usu. Soluta noster vix ne, iisque consulatu dignissim his cu.</p>
+<p>Ius simul detraxit ea. Ad reque nostro per. Quidam menandri deserunt sea ei. Ad affert accommodare vim. Nec deleniti menandri ad, vix id repudiare mediocritatem. Per eu adhuc abhorreant.</p>
+<p>Ut iuvaret eripuit adversarium duo, at facer mucius iisque vel. Feugait atomorum eam cu, an cum aeterno iracundia comprehensam, vivendo principes assueverit est et. Pro integre propriae democritum an, ex possim veritus apeirian nam, ex alia sanctus ius. Id quem dicta eos. Cu his docendi disputationi, quo facete equidem maluisset in, et assum labore quo.</p>
+<p>An sint honestatis pro, decore nominavi vis ne. Dolor feugait suscipiantur in mea, ad nulla postulant mei, cetero nominati ne duo. Pro in movet platonem consectetuer, in per sale ignota gloriatur. Eos aliquam admodum sententiae an. Aliquam moderatius ad mel. Vix consul vocibus in.</p>
+<p>Erat adhuc fugit pro ex, ei omnium deserunt duo, mundi gloriatur et nec. Sed cu deseruisse deterruisset. Id labore percipit eam, eos laudem fabellas ullamcorper ut. Id tation populo temporibus quo. Te eos dico dicit.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../pub-night/feed/index.html</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Sweet memories</title>
+		<link>./../../../sweet-memories/index.html</link>
+		<comments>./../../../sweet-memories/index.html#comments</comments>
+		<pubDate>Sat, 07 Mar 2015 17:04:05 +0000</pubDate>
+		<dc:creator><![CDATA[andrew]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Photos]]></category>
+		<category><![CDATA[Nature]]></category>
+		<category><![CDATA[Relax]]></category>
+		<category><![CDATA[World]]></category>
+
+		<guid isPermaLink="false">http://localhost/wordpress/tilt/demo/?p=4179</guid>
+		<description><![CDATA[Wisi apeirian perfecto usu ex. Ei eam quodsi nostrud laboramus. Quo semper doctus aperiri eu. Natum definiebas mei id. Amet volumus ne eos, insolens urbanitas voluptatum id pri. Vis dico dicant aliquando eu, usu et vide periculis euripidis. Vix sale mundi verterem et. Vis id unum aperiri nominavi, eu qui possim atomorum, ius ea debet quando evertitur. Alia voluptatum ex mel. Cibo salutatus necessitatibus vim no, magna partiendo tincidunt mel ex, pri cu dolore diceret...  <div class="read-more"><a class="excerpt-read-more" href="./../../../sweet-memories/index.html" title="Continue reading Sweet memories">Read more<i class="fa fa-angle-right"></i></a></div>]]></description>
+				<content:encoded><![CDATA[<p>Wisi apeirian perfecto usu ex. Ei eam quodsi nostrud laboramus. Quo semper doctus aperiri eu. Natum definiebas mei id. Amet volumus ne eos, insolens urbanitas voluptatum id pri.</p>
+<p>Vis dico dicant aliquando eu, usu et vide periculis euripidis. Vix sale mundi verterem et. Vis id unum aperiri nominavi, eu qui possim atomorum, ius ea debet quando evertitur. Alia voluptatum ex mel. Cibo salutatus necessitatibus vim no, magna partiendo tincidunt mel ex, pri cu dolore diceret facilisis.</p>
+<p>Labores fierent ea has, tale perfecto vis te. Affert delenit cotidieque eos no, amet deleniti adipiscing eos ad. Solum albucius vis ex, ea mea stet graeci. Ut vim dico diceret adolescens. Pri in oratio dolorem omnesque, dicit tractatos usu at.</p>
+<p>Epicuri posidonium eu his, ex has rebum omittantur, solum audire quaeque ex vix. Vis omnes iracundia ea, vix ullum dictas id. Eu nec aliquip fastidii, eum alii fuisset dolores et. Euismod torquatos elaboraret mei eu. Affert suscipit eleifend ut sea, eam at recusabo consulatu. Qui no laudem repudiare.</p>
+<p>Duo eu ponderum consetetur, ne altera principes cum. Cum no deleniti accusata. Vis malis error noster te, mei quem congue labore ut, eu cum ludus nominati consectetuer. Nobis graeci electram at sea, sed ea quidam scripta iuvaret. In dictas feugiat qui. His suas sanctus intellegebat ei, an atqui philosophia intellegebat ius.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../sweet-memories/feed/index.html</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Favurite band concert</title>
+		<link>./../../../favorite-band-concert/index.html</link>
+		<comments>./../../../favorite-band-concert/index.html#comments</comments>
+		<pubDate>Sat, 07 Mar 2015 10:48:20 +0000</pubDate>
+		<dc:creator><![CDATA[andrew]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Photos]]></category>
+		<category><![CDATA[Music]]></category>
+		<category><![CDATA[Party]]></category>
+
+		<guid isPermaLink="false">http://whitecollars.co/tilt/?p=102</guid>
+		<description><![CDATA[Per ridens mollis at. Deserunt appellantur vituperatoribus et mea, eum aeque altera efficiendi eu. An vim libris efficiantur neglegentur, quo cu semper prompta minimum. Dicunt quaeque honestatis eu has. Et cum quis platonem. No ius iuvaret recteque comprehensam, in pro choro homero mandamus, vitae laudem et vis. Ne aeque dolor inimicus qui, libris euripidis efficiendi per an. Sea no invenire delicatissimi, qui ne quas epicuri. Ne eum prima docendi antiopam, reque reprehendunt at qui. Id...  <div class="read-more"><a class="excerpt-read-more" href="./../../../favorite-band-concert/index.html" title="Continue reading Favurite band concert">Read more<i class="fa fa-angle-right"></i></a></div>]]></description>
+				<content:encoded><![CDATA[<p>Per ridens mollis at. Deserunt appellantur vituperatoribus et mea, eum aeque altera efficiendi eu. An vim libris efficiantur neglegentur, quo cu semper prompta minimum. Dicunt quaeque honestatis eu has. Et cum quis platonem.</p>
+<p>No ius iuvaret recteque comprehensam, in pro choro homero mandamus, vitae laudem et vis. Ne aeque dolor inimicus qui, libris euripidis efficiendi per an. Sea no invenire delicatissimi, qui ne quas epicuri. Ne eum prima docendi antiopam, reque reprehendunt at qui. Id justo denique vis, ad affert nemore essent pri. Dicat omittam in mea.</p>
+<p>Decore utamur ea nam. Et mea virtute efficiantur. Mea dolor convenire ex, nam erat fugit appetere ei. Vix ad facete audiam meliore. Exerci persecuti per cu, aeterno persius vis id, te vel facete noluisse insolens. Detraxit prodesset ex has.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../favorite-band-concert/feed/index.html</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>WordPress Themes</title>
+		<link>./../../../fantastic-wordpress-themes/index.html</link>
+		<comments>./../../../fantastic-wordpress-themes/index.html#respond</comments>
+		<pubDate>Thu, 05 Mar 2015 16:19:57 +0000</pubDate>
+		<dc:creator><![CDATA[andrew]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Design]]></category>
+
+		<guid isPermaLink="false">http://whitecollars.co/tilt/?p=84</guid>
+		<description><![CDATA[http://themeforest.net/user/TheWhiteCollars]]></description>
+				<content:encoded><![CDATA[<p>http://themeforest.net/user/TheWhiteCollars</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../fantastic-wordpress-themes/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Step forward</title>
+		<link>./../../../step-forward/index.html</link>
+		<comments>./../../../step-forward/index.html#comments</comments>
+		<pubDate>Wed, 04 Mar 2015 12:47:28 +0000</pubDate>
+		<dc:creator><![CDATA[andrew]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Business]]></category>
+
+		<guid isPermaLink="false">http://localhost/wordpress/tilt/demo/?p=4281</guid>
+		<description><![CDATA[Cu est vero scaevola efficiantur. Equidem adipiscing consectetuer mel ad. Laoreet vocibus reformidans no eos, mea ea tritani recteque. Pri debitis consequuntur ea, sit an pericula temporibus, sea dicunt lucilius eu. Ex dicta iusto est, vix aliquid dignissim ex, ne vim falli discere definiebas. Natum semper nominati ei est, delectus similique complectitur no sea. An his inimicus referrentur, duo id libris volutpat interpretaris. Vel idque quidam ei, labore dolorum constituto vix ut, quem facilisi adipiscing...  <div class="read-more"><a class="excerpt-read-more" href="./../../../step-forward/index.html" title="Continue reading Step forward">Read more<i class="fa fa-angle-right"></i></a></div>]]></description>
+				<content:encoded><![CDATA[<p>Cu est vero scaevola efficiantur. Equidem adipiscing consectetuer mel ad. Laoreet vocibus reformidans no eos, mea ea tritani recteque. Pri debitis consequuntur ea, sit an pericula temporibus, sea dicunt lucilius eu. Ex dicta iusto est, vix aliquid dignissim ex, ne vim falli discere definiebas.</p>
+<blockquote><p>Natum semper nominati ei est, delectus similique complectitur no sea. An his inimicus referrentur, duo id libris volutpat interpretaris.</p></blockquote>
+<p>Vel idque quidam ei, labore dolorum constituto vix ut, quem facilisi adipiscing eu quo. Ad mel error causae equidem, diceret praesent id mei. Malis apeirian in eam.</p>
+<p>Ut vel partem integre molestie, ad sea sint discere neglegentur. Ut persius laoreet similique pro, eu quo contentiones voluptatibus. Pro ne unum vocent discere, quo brute facilisis complectitur eu. An tibique mentitum ius. An possim veritus sed, sea vero legimus eu. Te putant mediocrem duo, saperet invenire assentior vim ei.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../step-forward/feed/index.html</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

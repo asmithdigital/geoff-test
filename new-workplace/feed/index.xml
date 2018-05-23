@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: New workplace</title>
+	<atom:link href="http://localhost/wp_asmithdigital/new-workplace/feed/" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 22 May 2018 03:45:33 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>By: Nicole Preston</title>
+		<link>./../index.html#comment-6</link>
+		<dc:creator><![CDATA[Nicole Preston]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2015 05:58:43 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost/wordpress/tilt/demo/?p=4263#comment-6</guid>
+		<description><![CDATA[Harum perfecto inimicus sed ut. Ea habemus percipitur cum, eam te definiebas ullamcorper. Vel at diam denique adipiscing. An sed alterum vituperatoribus, eam cu graeci appareat gloriatur.]]></description>
+		<content:encoded><![CDATA[<p>Harum perfecto inimicus sed ut. Ea habemus percipitur cum, eam te definiebas ullamcorper. Vel at diam denique adipiscing. An sed alterum vituperatoribus, eam cu graeci appareat gloriatur.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Nicole Preston</title>
+		<link>./../index.html#comment-5</link>
+		<dc:creator><![CDATA[Nicole Preston]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2015 05:55:06 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost/wordpress/tilt/demo/?p=4263#comment-5</guid>
+		<description><![CDATA[Te pri decore forensibus. Dicant partem appellantur eu qui, sea ferri consequat in. His ea dicit ocurreret accommodare, no habeo mediocritatem mel, eu nec movet facete.]]></description>
+		<content:encoded><![CDATA[<p>Te pri decore forensibus. Dicant partem appellantur eu qui, sea ferri consequat in. His ea dicit ocurreret accommodare, no habeo mediocritatem mel, eu nec movet facete.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

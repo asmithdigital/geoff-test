@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>People &#8211; asmithdigital</title>
+	<atom:link href="http://localhost/wp_asmithdigital/tag/people/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 22 May 2018 04:07:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Winston Churchill</title>
+		<link>./../../../winston-churchill/index.html</link>
+		<comments>./../../../winston-churchill/index.html#respond</comments>
+		<pubDate>Tue, 24 Feb 2015 14:11:44 +0000</pubDate>
+		<dc:creator><![CDATA[andrew]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Inspiration]]></category>
+		<category><![CDATA[People]]></category>
+		<category><![CDATA[Quotes]]></category>
+
+		<guid isPermaLink="false">http://whitecollars.co/tilt/?p=78</guid>
+		<description><![CDATA[Success consists of going from failure to failure without loss of enthusiasm.]]></description>
+				<content:encoded><![CDATA[<p>Success consists of going from failure to failure without loss of enthusiasm.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../winston-churchill/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

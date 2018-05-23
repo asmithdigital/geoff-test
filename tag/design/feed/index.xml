@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design &#8211; asmithdigital</title>
+	<atom:link href="http://localhost/wp_asmithdigital/tag/design/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 22 May 2018 04:07:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>WordPress Themes</title>
+		<link>./../../../fantastic-wordpress-themes/index.html</link>
+		<comments>./../../../fantastic-wordpress-themes/index.html#respond</comments>
+		<pubDate>Thu, 05 Mar 2015 16:19:57 +0000</pubDate>
+		<dc:creator><![CDATA[andrew]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Design]]></category>
+
+		<guid isPermaLink="false">http://whitecollars.co/tilt/?p=84</guid>
+		<description><![CDATA[http://themeforest.net/user/TheWhiteCollars]]></description>
+				<content:encoded><![CDATA[<p>http://themeforest.net/user/TheWhiteCollars</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../fantastic-wordpress-themes/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Design starts here</title>
+		<link>./../../../design-starts-here/index.html</link>
+		<comments>./../../../design-starts-here/index.html#comments</comments>
+		<pubDate>Thu, 26 Feb 2015 08:46:50 +0000</pubDate>
+		<dc:creator><![CDATA[andrew]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Fashion]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Inspiration]]></category>
+
+		<guid isPermaLink="false">http://whitecollars.co/tilt/?p=56</guid>
+		<description><![CDATA[Amet adhuc dicat vel no, est tamquam impedit epicurei at. Ne per ipsum hendrerit, vel pertinax molestiae ad. Altera suscipiantur reprehendunt no ius. Ius veritus civibus vituperatoribus te, quo error urbanitas no. At nec simul animal necessitatibus, ius oratio delicatissimi te. Dicant eripuit ne eos, ex sed patrioque suscipiantur, cu eum eros sanctus. Cum pertinax tractatos et, te nec indoctum torquatos gloriatur, eos ut ubique labitur aliquid.]]></description>
+				<content:encoded><![CDATA[<p>Amet adhuc dicat vel no, est tamquam impedit epicurei at. Ne per ipsum hendrerit, vel pertinax molestiae ad. Altera suscipiantur reprehendunt no ius. Ius veritus civibus vituperatoribus te, quo error urbanitas no. At nec simul animal necessitatibus, ius oratio delicatissimi te. Dicant eripuit ne eos, ex sed patrioque suscipiantur, cu eum eros sanctus. Cum pertinax tractatos et, te nec indoctum torquatos gloriatur, eos ut ubique labitur aliquid.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../design-starts-here/feed/index.html</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

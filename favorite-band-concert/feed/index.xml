@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Favurite band concert</title>
+	<atom:link href="http://localhost/wp_asmithdigital/favorite-band-concert/feed/" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 22 May 2018 03:45:33 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>By: TheWhiteCollars</title>
+		<link>./../index.html#comment-24</link>
+		<dc:creator><![CDATA[TheWhiteCollars]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2015 06:20:13 +0000</pubDate>
+		<guid isPermaLink="false">http://whitecollars.co/tilt/?p=102#comment-24</guid>
+		<description><![CDATA[Viderer nonumes in vim, te dolores necessitatibus sea. Ei tollit probatus consulatu pri.]]></description>
+		<content:encoded><![CDATA[<p>Viderer nonumes in vim, te dolores necessitatibus sea. Ei tollit probatus consulatu pri.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: James Shepherd</title>
+		<link>./../index.html#comment-23</link>
+		<dc:creator><![CDATA[James Shepherd]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2015 06:17:15 +0000</pubDate>
+		<guid isPermaLink="false">http://whitecollars.co/tilt/?p=102#comment-23</guid>
+		<description><![CDATA[Oporteat interpretaris an vis, mel no vide vocibus. Quo aeque facilis forensibus ad, dolor utamur viderer ei ius.]]></description>
+		<content:encoded><![CDATA[<p>Oporteat interpretaris an vis, mel no vide vocibus. Quo aeque facilis forensibus ad, dolor utamur viderer ei ius.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: TheWhiteCollars</title>
+		<link>./../index.html#comment-22</link>
+		<dc:creator><![CDATA[TheWhiteCollars]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2015 06:16:44 +0000</pubDate>
+		<guid isPermaLink="false">http://whitecollars.co/tilt/?p=102#comment-22</guid>
+		<description><![CDATA[Ei mel autem modus inani. Nec ei putant postulant urbanitas. Vim ad hinc doctus adversarium, et velit ornatus omnesque eos.]]></description>
+		<content:encoded><![CDATA[<p>Ei mel autem modus inani. Nec ei putant postulant urbanitas. Vim ad hinc doctus adversarium, et velit ornatus omnesque eos.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: James Shepherd</title>
+		<link>./../index.html#comment-21</link>
+		<dc:creator><![CDATA[James Shepherd]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2015 06:15:23 +0000</pubDate>
+		<guid isPermaLink="false">http://whitecollars.co/tilt/?p=102#comment-21</guid>
+		<description><![CDATA[Nam delicata vulputate democritum cu, sale oblique cu sed. Has posse veniam postea no, ea numquam legendos volutpat vim, ei fugit utinam interpretaris duo. Est ex mutat causae doctus. Ad usu illud iudico admodum.]]></description>
+		<content:encoded><![CDATA[<p>Nam delicata vulputate democritum cu, sale oblique cu sed. Has posse veniam postea no, ea numquam legendos volutpat vim, ei fugit utinam interpretaris duo. Est ex mutat causae doctus. Ad usu illud iudico admodum.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
